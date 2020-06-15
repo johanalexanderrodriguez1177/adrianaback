@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+ <category>
+    <pattern>*</pattern>
+    <template>
+      <random>
+        <li>Disculpa pero no comprendo tu pregunta pero Puedo hablarte de los servicios que ADR ofrecemos?. Escriba Servicios Por Favor.</li>
+        <li>Disculpa pero no comprendo tu pregunta aunque Puedo darte informacion acerca de nuestras sedes territoriales?. Escriba Sedes Por Favor.</li>
+        <li>Si tiene alguna petición, quejas, reclamos, sugerencias y denuncias?. Escriba PQRDS Por Favor.</li>
+        <li>Disculpa pero no comprendo tu pregunta pero si requiere informacion sobre nuestros tramites. Escriba Tramites Por Favor.</li>
+      </random>
+    </template>
+  </category>
+  
+      <category>
+        <pattern>Servicios</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Acceso a Activos Productivos.<br/> 
+		-Asistencia Técnica Rural.<br/>
+		-PIDAR.<br/>
+		-Adecuación de Tierras. <br/>
+		-Comercialización.<br/>
+		-PIDARET.<br/>
+		-Participación y Asociatividad.<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+	
+	 <category>
+        <pattern>_ Servicios</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Acceso a Activos Productivos.<br/> 
+		-Asistencia Técnica Rural.<br/>
+		-PIDAR.<br/>
+		-Adecuación de Tierras. <br/>
+		-Comercialización.<br/>
+		-PIDARET.<br/>
+		-Participación y Asociatividad.<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+	
+	<category>
+        <pattern>Servicios *</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Acceso a Activos Productivos.<br/> 
+		-Asistencia Técnica Rural.<br/>
+		-PIDAR.<br/>
+		-Adecuación de Tierras. <br/>
+		-Comercialización.<br/>
+		-PIDARET.<br/>
+		-Participación y Asociatividad.<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+	</category>
+	
+	 <category>
+        <pattern>_ Servicios *</pattern>
+        <template>Ofrecemos los siguientes servicios: <br/><br/>
+		-Acceso a Activos Productivos.<br/> 
+		-Asistencia Técnica Rural.<br/>
+		-PIDAR.<br/>
+		-Adecuación de Tierras. <br/>
+		-Comercialización.<br/>
+		-PIDARET.<br/>
+		-Participación y Asociatividad.<br/>
+		Por favor escriba algunos de ellos.
+        </template>
+    </category>
+  
+    
+
+    <category>
+        <pattern>sedes</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>_ sedes</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>sedes *</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>_ sedes *</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>sedes territoriales</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>_ sedes territoriales</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>sedes territoriales *</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>_ sedes territoriales *</pattern>
+        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+                Presencial:<br/>
+                Punto de Atención:<br/>
+                Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
+                <br/><br/>
+                Para más información:<br/>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+        </template>
+    </category>
+    
+<category>
+    <pattern>PIDAR</pattern>
+     <template>
+         Por sus siglas Proyectos Integrales de Desarrollo Agropecuario y Rural.
+  		<br/><br/>La ADR es su aliado para que su sueño de negocio rural se haga realidad, por medio de proyectos productivos integrales, que en realidad son proyectos de vida.<br/> 
+  		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
+  		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+   </template>
+ </category>
+ 
+ <category>
+    <pattern>_ PIDAR</pattern>
+     <template>
+         Por sus siglas Proyectos Integrales de Desarrollo Agropecuario y Rural.
+  		<br/><br/>La ADR es su aliado para que su sueño de negocio rural se haga realidad, por medio de proyectos productivos integrales, que en realidad son proyectos de vida.<br/> 
+  		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
+  		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+   </template>
+ </category>
+ 
+ <category>
+    <pattern>PIDAR *</pattern>
+     <template>
+         Por sus siglas Proyectos Integrales de Desarrollo Agropecuario y Rural.
+  		<br/><br/>La ADR es su aliado para que su sueño de negocio rural se haga realidad, por medio de proyectos productivos integrales, que en realidad son proyectos de vida.<br/> 
+  		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
+  		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+   </template>
+ </category>
+ 
+ <category>
+    <pattern>_ PIDAR *</pattern>
+     <template>
+         Por sus siglas Proyectos Integrales de Desarrollo Agropecuario y Rural.
+  		<br/><br/>La ADR es su aliado para que su sueño de negocio rural se haga realidad, por medio de proyectos productivos integrales, que en realidad son proyectos de vida.<br/> 
+  		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
+  		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+   </template>
+ </category>
+ 
+ 
+
+<category>
+    <pattern>PIDARET</pattern>
+     <template>
+        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+  		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
+  		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
+  		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
+  		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+   </template>
+  </category>
+  
+ <category>
+    <pattern>_ PIDARET</pattern>
+     <template>
+        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+  		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
+  		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
+  		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
+  		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+   </template>
+  </category>
+  
+ <category>
+    <pattern>PIDARET *</pattern>
+     <template>
+        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+  		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
+  		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
+  		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
+  		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+   </template>
+  </category>
+  
+  <category>
+    <pattern>_ PIDARET *</pattern>
+     <template>
+        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+  		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
+  		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
+  		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
+  		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
+  		<br/><br/>Para más información:  
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+   </template>
+  </category>
+
+
+<category>
+    <pattern>PQRDS</pattern>
+     <template>
+  		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
+  		Asegúrese de dejar la información necesaria para responderle. 
+  		<br/><br/>El formulario esta en el siguiente link:<br/>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+   </template>
+ </category>
+  
+<category>
+    <pattern>_ PQRDS</pattern>
+     <template>
+  		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
+  		Asegúrese de dejar la información necesaria para responderle. 
+  		<br/><br/>El formulario esta en el siguiente link:<br/>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+   </template>
+ </category>
+  
+<category>
+    <pattern>PQRDS *</pattern>
+     <template>
+  		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
+  		Asegúrese de dejar la información necesaria para responderle. 
+  		<br/><br/>El formulario esta en el siguiente link:<br/>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+   </template>
+ </category>
+  
+ <category>
+    <pattern>_ PQRDS *</pattern>
+     <template>
+  		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
+  		Asegúrese de dejar la información necesaria para responderle. 
+  		<br/><br/>El formulario esta en el siguiente link:<br/>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+   </template>
+ </category>
+ 
+ 
+   <category>
+    <pattern>Tramites</pattern>
+     <template>
+         Ofrecemos los siguientes Tramites:
+         <br/><br/>
+  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+   </template>
+ </category>
+ 
+   <category>
+    <pattern>_ Tramites</pattern>
+     <template>
+         Ofrecemos los siguientes Tramites:
+         <br/><br/>
+  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+   </template>
+ </category>
+ 
+   <category>
+    <pattern>Tramites *</pattern>
+     <template>
+         Ofrecemos los siguientes Tramites:
+         <br/><br/>
+  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+   </template>
+ </category>
+ 
+   <category>
+    <pattern>_ Tramites *</pattern>
+     <template>
+         Ofrecemos los siguientes Tramites:
+         <br/><br/>
+  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+   </template>
+ </category>
+
+
+	
+</aiml>
