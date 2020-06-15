@@ -36,8 +36,9 @@ public class ChatBotController {
 
     @GetMapping(value = "/botQuestion")
     public String bot(@RequestParam String question){
-        String x = chatBotService.chatbotService(question);
-        return x;
+        //String x = chatBotService.chatbotService(question);
+        String prueba = "respuesta";
+        return prueba;
     }
 
 }
