@@ -12,6 +12,47 @@
     </template>
   </category>
   
+  <category>
+       <pattern>como te llamas</pattern>
+        <template>
+			<random>
+				<li>me llamo ADRIANA</li>
+				<li>ADRIANA</li>
+			</random>
+        </template>
+  </category>
+  
+    <category>
+       <pattern>_ como te llamas</pattern>
+        <template>
+			<random>
+				<li>me llamo ADRIANA</li>
+				<li>ADRIANA</li>
+			</random>
+        </template>
+  </category>
+  
+    <category>
+       <pattern>como te llamas *</pattern>
+        <template>
+			<random>
+				<li>me llamo ADRIANA</li>
+				<li>ADRIANA</li>
+			</random>
+        </template>
+  </category>
+  
+    <category>
+       <pattern>_ como te llamas *</pattern>
+        <template>
+			<random>
+				<li>me llamo ADRIANA</li>
+				<li>ADRIANA</li>
+			</random>
+        </template>
+  </category>
+  
+  
       <category>
         <pattern>Servicios</pattern>
         <template>Ofrecemos los siguientes servicios: <br/><br/>
@@ -78,19 +119,19 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
     <category>
         <pattern>_ sedes</pattern>
-        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
+		<template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -102,7 +143,7 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -114,7 +155,7 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -126,7 +167,7 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -138,7 +179,7 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -150,7 +191,7 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -162,7 +203,7 @@
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
                 <br/><br/>
                 Para más información:<br/>
-                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</a>
+                <a href="https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx" target="_blank"><font color="white">https://www.adr.gov.co/atencion-al-ciudadano/paginas/mecanismos-contacto.aspx</font></a>
         </template>
     </category>
     
@@ -174,7 +215,7 @@
   		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
   		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank"><font color="white" size="2">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</font></a>
    </template>
  </category>
  
@@ -186,7 +227,7 @@
   		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
   		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank"><font color="white" size="2">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</font></a>
    </template>
  </category>
  
@@ -198,7 +239,7 @@
   		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
   		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank"><font color="white" size="2">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</font></a>
    </template>
  </category>
  
@@ -210,7 +251,7 @@
   		<br/>Con su iniciativa y esa idea que siempre ha tenido para su finca puede materializarse con recursos y acompañamiento.<br/>
   		<br/>Presentamos el procedimiento y formatos para la estructuración de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx' target="_blank"><font color="white" size="2">https://www.adr.gov.co/servicios/como-hacer-realidad-tu-iniciativa-con-la-adr/Paginas/como-hacer-realidad-tu-iniciativa-con-la-adr.aspx</font></a>
    </template>
  </category>
  
@@ -225,9 +266,9 @@
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank" class="prueba"><font color="white" size="1">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</font></a>
    </template>
-  </category>
+ </category>
   
  <category>
     <pattern>_ PIDARET</pattern>
@@ -238,7 +279,7 @@
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank" class="prueba"><font color="white" size="1">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</font></a>
    </template>
   </category>
   
@@ -251,7 +292,7 @@
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank" class="prueba"><font color="white" size="1">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</font></a>
    </template>
   </category>
   
@@ -264,7 +305,7 @@
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank" class="prueba"><font color="white" size="1">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</font></a>
    </template>
   </category>
 
@@ -275,7 +316,7 @@
   		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
   		Asegúrese de dejar la información necesaria para responderle. 
   		<br/><br/>El formulario esta en el siguiente link:<br/>
-		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank"><font color="white">http://pqrsd.adr.gov.co/pqr3/index.php</font></a>
    </template>
  </category>
   
@@ -285,7 +326,7 @@
   		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
   		Asegúrese de dejar la información necesaria para responderle. 
   		<br/><br/>El formulario esta en el siguiente link:<br/>
-		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank"><font color="white">http://pqrsd.adr.gov.co/pqr3/index.php</font></a>
    </template>
  </category>
   
@@ -295,7 +336,7 @@
   		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
   		Asegúrese de dejar la información necesaria para responderle. 
   		<br/><br/>El formulario esta en el siguiente link:<br/>
-		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank"><font color="white">http://pqrsd.adr.gov.co/pqr3/index.php</font></a>
    </template>
  </category>
   
@@ -305,67 +346,130 @@
   		En esta sección usted puede formular las Peticiones, Quejas, Reclamos, Consultas, Solicitudes, Sugerencias, y/o trámites sobre los temas de competencia de la ADR. Escriba sus datos y el detalle de la solicitud. 
   		Asegúrese de dejar la información necesaria para responderle. 
   		<br/><br/>El formulario esta en el siguiente link:<br/>
-		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank">http://pqrsd.adr.gov.co/pqr3/index.php</a>
+		<a href='http://pqrsd.adr.gov.co/pqr3/index.php' target="_blank"><font color="white">http://pqrsd.adr.gov.co/pqr3/index.php</font></a>
    </template>
  </category>
  
  
-   <category>
+<category>
     <pattern>Tramites</pattern>
      <template>
-         Ofrecemos los siguientes Tramites:
-         <br/><br/>
-  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
-        <br/><br/>
-        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
         <br/><br/>
         Para tramitar ingrese al siguiente link:
-		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
    </template>
  </category>
  
    <category>
     <pattern>_ Tramites</pattern>
      <template>
-         Ofrecemos los siguientes Tramites:
-         <br/><br/>
-  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
-        <br/><br/>
-        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
         <br/><br/>
         Para tramitar ingrese al siguiente link:
-		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
    </template>
  </category>
  
    <category>
     <pattern>Tramites *</pattern>
      <template>
-         Ofrecemos los siguientes Tramites:
-         <br/><br/>
-  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
-        <br/><br/>
-        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
         <br/><br/>
         Para tramitar ingrese al siguiente link:
-		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
    </template>
  </category>
  
    <category>
     <pattern>_ Tramites *</pattern>
      <template>
-         Ofrecemos los siguientes Tramites:
-         <br/><br/>
-  	    •Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
-        <br/><br/>
-        •Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
         <br/><br/>
         Para tramitar ingrese al siguiente link:
-		<a href='https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx' target="_blank">https://www.adr.gov.co/atencion-al-ciudadano/Paginas/tramites.aspx</a>
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
    </template>
  </category>
-
+ 
+ <category>
+    <pattern>Trámites</pattern>
+     <template>
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
+   </template>
+ </category>
+ 
+   <category>
+    <pattern>_ Trámites</pattern>
+     <template>
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
+   </template>
+ </category>
+ 
+   <category>
+    <pattern>Trámites *</pattern>
+     <template>
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
+   </template>
+ </category>
+ 
+   <category>
+    <pattern>_ Trámites *</pattern>
+     <template>
+  	     	-Concepto de viabilidad de la solicitud de reconocimiento de la personería jurídica e inscripción de las asociaciones de usuarios de adecuación de tierras.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+        <a href='https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862' target="_blank"><font color="white" size="2">https://www.nomasfilas.gov.co/memoficha-tramite/-/tramite/T65862</font></a>
+        <br/><br/>
+        	-Estructuración y cofinanciación de proyectos integrales de desarrollo agropecuario y rural con enfoque territorial.
+        <br/><br/>
+        Para tramitar ingrese al siguiente link:
+		<a href='http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458' target="_blank"><font color="white" size="2">http://visor.suit.gov.co/VisorSUIT/index.jsf?FI=69458</font></a>
+   </template>
+ </category>
 
 	
 </aiml>
