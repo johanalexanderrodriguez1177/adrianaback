@@ -72,7 +72,7 @@
 
     <category>
         <pattern>sedes</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -84,7 +84,7 @@
     
     <category>
         <pattern>_ sedes</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -96,7 +96,7 @@
     
     <category>
         <pattern>sedes *</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -108,7 +108,7 @@
     
     <category>
         <pattern>_ sedes *</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -120,7 +120,7 @@
     
     <category>
         <pattern>sedes territoriales</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -132,7 +132,7 @@
     
     <category>
         <pattern>_ sedes territoriales</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -144,7 +144,7 @@
     
     <category>
         <pattern>sedes territoriales *</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -156,7 +156,7 @@
     
     <category>
         <pattern>_ sedes territoriales *</pattern>
-        <template>Tenemos un mecanisco para la atención al ciudadano<br/>
+        <template>Tenemos un mecanismo para la atención al ciudadano<br/>
                 Presencial:<br/>
                 Punto de Atención:<br/>
                 Sede principal: Calle 43 N° 57 – 41 (Bogotá D.C) Piso 1 Carrera 69 N° 25 B 44 Piso 9º. Edificio WBP. (Bogotá D.C) Horario de atención: 08:00 - 17:00 horas
@@ -219,52 +219,52 @@
 <category>
     <pattern>PIDARET</pattern>
      <template>
-        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+        Por sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
   		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
   		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
    </template>
   </category>
   
  <category>
     <pattern>_ PIDARET</pattern>
      <template>
-        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+        Por sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
   		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
   		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
    </template>
   </category>
   
  <category>
     <pattern>PIDARET *</pattern>
      <template>
-        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+        Por sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
   		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
   		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
    </template>
   </category>
   
   <category>
     <pattern>_ PIDARET *</pattern>
      <template>
-        Pos sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
+        Por sus siglas Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.
   		<br/><br/>Los Planes Integrales de Desarrollo Agropecuario con Enfoque Territorial.(en adelante el Plan),
   		constituye un instrumento de gestión para el desarrollo agropecuario y rural de los territorios del país,
   		mediante el cual se determinan objetivos, metas, prioridades y estrategias del departamento y
   		sus subregiones para los próximos 20 años, como producto del trabajo consensuado con los actores en el territorio.
   		<br/><br/>Para más información:  
-		<a href='https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
+		<a href='shorturl.at/foBL6' target="_blank">https://www.adr.gov.co/servicios/Paginas/Proyectos-Integrales-de-Desarrollo-Agropecuario-y-Rural-con-Enfoque-Territorial.aspx</a>
    </template>
   </category>
 
